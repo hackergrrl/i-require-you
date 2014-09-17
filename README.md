@@ -18,15 +18,12 @@ Usage
 -----
 Just hit `<Leader>r` in a `javascript` file, and enter the module name:
 
-```
-Enter module name:async
-```
+
+![before](http://noffle.github.io/i-require-you/iry_0.png)
 
 then becomes
 
-```
-var async = require('async');
-```
+![after](http://noffle.github.io/i-require-you/iry_1.png)
 
 That's it! A savings of 22 keypresses each time it's invoked.
 
