@@ -9,6 +9,11 @@ var foo = require('foo');
 
 statements over and over again.
 
+Installation
+------------
+If you're using the wonderful [Pathogen](https://github.com/tpope/vim-pathogen),
+clone this repository in your `.vim/bundle` directory and you're ready to go!
+
 Usage
 -----
 Just hit `<Leader>r` in a `javascript` file, and enter the module name:
