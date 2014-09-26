@@ -27,3 +27,9 @@ then becomes
 
 That's it! A savings of 22 keypresses each time it's invoked.
 
+Alternatives
+------------
+If this functionality seems a little too heavyweight for you as a plugin,
+consider a more generic snippet plugin like
+[Ultisnips](https://github.com/SirVer/ultisnips). (The author certainly has! :))
+
